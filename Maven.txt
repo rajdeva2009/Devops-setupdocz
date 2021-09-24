@@ -1,0 +1,22 @@
+Links:
+-----
+https://spring.io/guides/gs/maven/#scratch
+https://www.vogella.com/tutorials/ApacheMaven/article.html#exercise_maven
+https://github.com/jenkins-docs/simple-java-maven-app/blob/master/pom.xml
+https://www.studytonight.com/maven/managing-external-dependency-in-maven
+http://tutorials.jenkov.com/maven/your-first-maven-project.html
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+https://gist.github.com/13yo/1662915     - to add jfrog in maven POM file
+https://www.jfrog.com/confluence/display/RTF/Maven+Repository      - to add jfrog in maven POM file
+
+https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html - integrate maven and selenium.
+
+What is Maven?
+Maven is a project build management tool, based on the concept of a POM (Project Object Model) that includes project information and configuration information for Maven such as construction directory, source directory, dependency, test source directory, Goals, plugins, etc.
+
+Integrating Maven with Selenium provides following benefits Apache Maven provides support for managing the full lifecycle of a test project.
+
+https://www.geeksforgeeks.org/maven-lifecycle-and-basic-maven-commands/
+https://www.journaldev.com/33645/maven-commands-options-cheat-sheet
+http://tutorials.jenkov.com/maven/maven-commands.html
+https://www.educba.com/maven-commands/
